@@ -7,4 +7,4 @@ router rip
 
 version 2
 
-network (network-id)- network id of that particular router. 
+network (network-id) - directly connected network id of that particular router. 
